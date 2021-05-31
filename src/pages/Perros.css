@@ -1,0 +1,13 @@
+ion-card{
+    height: auto; /*posibles 500px*/
+    width: auto;    /*posibles 300px*/
+}
+ion-img{
+    height: 300px;
+}
+h1{
+    text-align: center;
+}
+#p1{
+    margin-bottom: 50px;
+}
